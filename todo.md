@@ -1,8 +1,10 @@
 # TODO
 
-* Make proper grid with 2 pixel padding
-* Left and right movement should be by grid and impossible to get out of place
-* Check for other pills in PillCanRotate
-* Location is off in Y direction
-* Change pills to sets of squares
+* Fix rotation behavior.
+* Figure out half and half coloring
+* Down arrow shouldn't work when pill is at top of jar
+* Change pills to sets of squares?
+* Check for 4 in a row
+* Add viruses
+
 
